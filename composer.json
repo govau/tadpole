@@ -12,5 +12,8 @@
     "theme",
     "government"
   ],
+  "require": {
+    "drupal/adminimal_theme": ">=1.4.0"
+  },
   "license": "MIT"
 }
